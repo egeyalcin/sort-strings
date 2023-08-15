@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(order(""));
+        System.out.println(order("thi1s cod4e m3y is2 "));
     }
 
     public static String order(String words) {
